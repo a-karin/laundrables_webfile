@@ -1,0 +1,4 @@
+config/laundrables.sqlite
+*.sqlite
+.DS_Store
+config/config.local.php
